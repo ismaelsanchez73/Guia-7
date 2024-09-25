@@ -48,6 +48,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'shoulda-matchers'
   gem 'capybara'
+  gem 'mysql2'
 end
 
 group :development do
